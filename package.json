@@ -1,0 +1,8 @@
+{
+  "name":"CodeMirror",
+  "version":"0.0.1",
+  "dependencies": {
+    "smash":"0.0.11",
+    "uglify-js":"*"
+  }
+}
